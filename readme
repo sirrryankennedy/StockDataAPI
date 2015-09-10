@@ -1,0 +1,3 @@
+Stock Data API
+This will pull avaliable historical stock market data from yahoo finance.
+The three requirements are a key (defined as a constant),ticker, and number of days (all will pull all available data.)
