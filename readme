@@ -2,7 +2,7 @@ Stock Data API
 This will pull avaliable historical stock market data from yahoo finance.
 Heres a little blog of the project. http://findthetrend.tumblr.com/
 Requirements:
-  key: a little more secure. Not exactly required but useful
+  key: a little more secure. Not exactly required but useful (set as as constant in config.php)
   ticker: this is the symbol you want to look up. Required
   days: number of days you want retrieved. "all" will return all available data 
   
